@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="29.251704">
+<testcase classname="This contains multiple features of the dashboard" name="Add KPI to the Business metric" time="29.251704">
+<system-out><![CDATA[Given user is in login page.................................................passed
+When user enters the credential for tester..................................passed
+Then user should be able to login...........................................passed
+When user edits the dashboard...............................................passed
+And add the kpi as "Gross profit"...........................................passed
+And add the time period as "Year to date"...................................passed
+And add the comparision period as "vs. 3 months ago"........................passed
+And click on save...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
